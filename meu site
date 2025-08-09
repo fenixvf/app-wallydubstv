@@ -1,0 +1,9 @@
+MeuApp/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/meusiteapp/MainActivity.kt
+│   │   │   └── AndroidManifest.xml
+│   ├── build.gradle
+├── build.gradle
+├── settings.gradle
